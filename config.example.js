@@ -6,7 +6,7 @@ var config = {};
 
 config.db = {};
 config.db.username = 'neo4j';
-config.db.password = 'neo4j';
+config.db.password = 'foobar';
 config.db.host = 'http://127.0.0.1';
 config.db.port = 7474;
 
